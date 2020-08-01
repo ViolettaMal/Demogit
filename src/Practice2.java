@@ -3,8 +3,6 @@ public class Practice2 {
         // code
 
 
-
-
-
+        //end
     }
 }
