@@ -4,9 +4,6 @@ public class HelloB20 {
 
             //added a line
 
-        int i = 5;
-        if (i>0){
-            System.out.println("You guys are awesome!");
-        }
+
     }
 }
